@@ -4,6 +4,8 @@
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+    background-color:#D64161;
+    color:#FFFFFF;
 
 }
 
@@ -12,28 +14,7 @@
 
 
 }
-.meny{
-    
-    width:1200px;
-    background-color:#336600;
-    color:#FFFFFF;
-      padding:12px;
-    font-family:sans-serif;
-    margin:auto;
-}
 
-.meny a{
-    color:#FFFFFF;
-    text-decoration: none;
-      display:inline;
-    width:200px;
-    margin:20px;
-    padding:20px;
-}
-
-.meny a:visited{
-    color:#FFFFFF;
-}
 
 .innpakning{
  /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
