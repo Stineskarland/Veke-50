@@ -1,1 +1,97 @@
+.topptekst {
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
 
+}
+
+.topp {
+    height:350px;
+
+
+}
+.meny{
+    
+    width:1200px;
+    background-color:#336600;
+    color:#FFFFFF;
+      padding:12px;
+    font-family:sans-serif;
+    margin:auto;
+}
+
+.meny a{
+    color:#FFFFFF;
+    text-decoration: none;
+      display:inline;
+    width:200px;
+    margin:20px;
+    padding:20px;
+}
+
+.meny a:visited{
+    color:#FFFFFF;
+}
+
+.innpakning{
+ /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
+    men "passer" til hverandre, stort sett*/
+    max-width: 1200px;
+    min-width: 1100px;
+    margin:auto;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  
+}
+
+.halv{
+    width:48%;
+    margin:1%;
+    padding-top:0px;
+}
+
+.hele{
+    width:98%;
+    margin:1%;
+}
+
+.body{
+   
+    font-family:sans-serif;
+    font-size:22px;
+   
+}
+
+.midtstilt{
+    text-align: center;
+}
+
+.totredeler{
+    width:64%;
+    margin:1%;
+    
+    
+}
+
+.entredel{
+    width:29%;
+    margin:1%;
+    padding:1%;
+    background-color:#F2F3F4;
+}
+
+.footer{
+
+    height:60px;
+    background-color:#336600;
+    color:#FFFFFF;
+    text-align:center;
+    padding-top: 15px;
+}
+  .ytre{
+    width:1600px;
+    margin:auto;
+}
