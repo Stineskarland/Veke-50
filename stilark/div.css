@@ -29,19 +29,13 @@
   
 }
 
-.halv1{
+.halv{
     width:48%;
     margin:1%;
     padding-top:0px;
     color:#FFFFFF;
     background color:#FF7B25;
 }
-.halv2{
-    width:48%;
-    margin:1%;
-    padding-top:0px;
-    color:#FFFFFF;
-    background color:#d64161; 
 
 .hele{
     width:98%;
@@ -59,18 +53,12 @@
     text-align: center;
 }
 
-.totredeler1{
+.totredeler{
     width:64%;
     margin:1%;
     color:#FFFFFF;
     background color:#FF7B25; 
-    
 }
-totredeler2{
-    width:64%;
-    margin:1%;
-    color:#FFFFFF;
-    background color:#d64161; 
     
 }
 .entredel{
