@@ -44,6 +44,7 @@
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-color:#6B5B95;
   
 }
 
@@ -51,11 +52,15 @@
     width:48%;
     margin:1%;
     padding-top:0px;
+    color:#FFFFFF;
+    background color:#FF7B25;
 }
 .halv2{
     width:48%;
     margin:1%;
     padding-top:0px;
+    color:#FFFFFF;
+    background color:#d64161; 
 
 .hele{
     width:98%;
@@ -64,7 +69,7 @@
 
 .body{
    
-    font-family:Arial,sans-serif;
+    font-family:arial,sans-serif;
     font-size:22px;
    
 }
@@ -73,24 +78,31 @@
     text-align: center;
 }
 
-.totredeler{
+.totredeler1{
     width:64%;
     margin:1%;
-    
+    color:#FFFFFF;
+    background color:#FF7B25; 
     
 }
-
+totredeler2{
+    width:64%;
+    margin:1%;
+    color:#FFFFFF;
+    background color:#d64161; 
+    
+}
 .entredel{
     width:29%;
     margin:1%;
     padding:1%;
-    background-color:#F2F3F4;
+    background-color:#FFFFFF;
 }
 
 .footer{
 
     height:60px;
-    background-color:#336600;
+    background-color:#6b5b95;
     color:#FFFFFF;
     text-align:center;
     padding-top: 15px;
