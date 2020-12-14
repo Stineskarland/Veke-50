@@ -14,12 +14,10 @@
     padding:10px;/*avstandmellombokskantoginnhold*/
     border-radius:5px;/*avrunderkant*/
     margin:2px;/*avstandmellombokser*/
-    color:#333333;/*mørkegråtekst*/
-    font-weight:bold;/*fettekst*/
-    text-decoration:none;/*fjernerunderstrek*/
-    background-color:#8cbe05;/*grønn*/} 
+    color:#FFFFFF;/*mørkegråtekst*/
+      font-weight:bold;/*fettekst*/ }
  .ula:hover{
-     background-color:#6b5b95;
+    color:#FFFFFF;
 } /*lysgrønn*/
 
 .topp{
