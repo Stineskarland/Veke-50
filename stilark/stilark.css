@@ -5,10 +5,10 @@
     color:#FFFFFF;
        text-align:center;
 }
-  ul{list-style-type:none;/*fjernerkulepunkter*/
+  .ul{list-style-type:none;/*fjernerkulepunkter*/
    margin:0;/*fjernerallemellomrom*/
   padding:0;/*fjernerallemellomrom*/}
-  ula {
+  .ula {
     display:block;/*gjøromlenkertilblock*/
     width:120px;/*breddepåboks*/
     padding:10px;/*avstandmellombokskantoginnhold*/
@@ -18,7 +18,7 @@
     font-weight:bold;/*fettekst*/
     text-decoration:none;/*fjernerunderstrek*/
     background-color:#8cbe05;/*grønn*/} 
- ula:hover{
+ .ula:hover{
      background-color:#6b5b95;
 } /*lysgrønn*/
 
