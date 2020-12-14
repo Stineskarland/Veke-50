@@ -14,14 +14,13 @@
     height:100%;
     background-color:#D64161;
     color:#FFFFFF;
+       text-align:center;
 }
 
 .topp{
     height:100px;
 }
-.h1{
-    text-align:center;
-}
+
 
 .innpakning{
  /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
