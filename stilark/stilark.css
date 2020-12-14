@@ -66,10 +66,10 @@
 
 }
 .bunntekst{
-    height:100px;/*Høyden av bunnteksten er 100px */
-    background-color:#D64161;/* Rosa*/
-    color:#FFFFFF;/* Hvit skrift*/
-    text-align:center;/*Midtstiller teksten*/
-    padding-top: 15px;/* 15px padding mot toppen*/
+    height:100%;
+    background-color:#D64161;/*rosa */
+    color:#FFFFFF;/*hvit */
+    text-align:center;/*Gjør at teksten midtstilles */
+}
 }
 
