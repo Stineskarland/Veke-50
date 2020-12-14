@@ -16,6 +16,20 @@
     color:#FFFFFF;
        text-align:center;
 }
+  ul{list-style-type:none;/*fjernerkulepunkter*/
+   margin:0;/*fjernerallemellomrom*/
+  padding:0;/*fjernerallemellomrom*/}
+  ula{7display:block;/*gjøromlenkertilblock*/
+    width:120px;/*breddepåboks*/
+    padding:10px;/*avstandmellombokskantoginnhold*/
+    border-radius:5px;/*avrunderkant*/
+    margin:2px;/*avstandmellombokser*/
+    color:#333333;/*mørkegråtekst*/
+    font-weight:bold;/*fettekst*/
+    text-decoration:none;/*fjernerunderstrek*/
+    background-color:#8cbe05;/*grønn*/} 
+ ula:hover{
+     background-color:#6b5b95;} /*lysgrønn*/
 
 .topp{
     height:100px;
@@ -76,7 +90,7 @@
     margin:1%;
 }
 .body{
-    font-family:arial,sans-serif;
+    font-family:Arial,sans-serif;
     font-size:22px;
 }
 .bunntekst{
