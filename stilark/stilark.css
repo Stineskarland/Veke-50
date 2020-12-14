@@ -7,11 +7,6 @@
 .topp{
     height:100px;
 }
-.h1{
-    text-align:center;
-    padding-top:15px;
-}
-
 .innpakning{
  /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
     men "passer" til hverandre, stort sett*/
@@ -80,6 +75,11 @@
     width:1600px;
     margin:auto;
 }
+.h1{
+    text-align:center;
+    padding-top:15px;
+}
+
 .ul{
     list-style-type:none;
     padding:0;
