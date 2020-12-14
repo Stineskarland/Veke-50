@@ -103,3 +103,8 @@
     width:1600px;
     margin:auto;
 }
+.ul {
+    list-style-type:none;
+    padding:5px;
+    margin:2px;
+}
