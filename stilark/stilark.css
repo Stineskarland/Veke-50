@@ -9,16 +9,12 @@
    margin:0;/*fjernerallemellomrom*/
   padding:0;/*fjernerallemellomrom*/}
   .ula {
-    display:block;/*gjøromlenkertilblock*/
-    width:120px;/*breddepåboks*/
-    padding:10px;/*avstandmellombokskantoginnhold*/
-    border-radius:5px;/*avrunderkant*/
-    margin:2px;/*avstandmellombokser*/
+  
     color:#FFFFFF;/*mørkegråtekst*/
       font-weight:bold;/*fettekst*/ }
  .ula:hover{
     color:#FFFFFF;
-} /*lysgrønn*/
+} /*hvit*/
 
 .topp{
     height:100px;
