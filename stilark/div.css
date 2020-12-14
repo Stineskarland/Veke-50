@@ -24,6 +24,7 @@
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
+    background-color:#6b5b95;
   
 }
 
@@ -31,6 +32,8 @@
     width:48%;
     margin:1%;
     padding-top:0px;
+    color:#FFFFFF;
+    background color:#FF7B25;
 }
 
 .hele{
@@ -52,7 +55,8 @@
 .totredeler{
     width:64%;
     margin:1%;
-    
+    background-color:#FF7B25;
+    color:#FFFFFF;
     
 }
 
@@ -60,13 +64,13 @@
     width:29%;
     margin:1%;
     padding:1%;
-    background-color:#F2F3F4;
+   
 }
 
 .footer{
 
     height:60px;
-    background-color:#336600;
+    background-color:#6b5b95;
     color:#FFFFFF;
     text-align:center;
     padding-top: 15px;
@@ -80,18 +84,7 @@
     width:98%;
     margin:1%;
 }
-.halv{
-    width:48%;
-    margin:1%;
-    padding-top:0px;
-    color:#FFFFFF;
-    background color:#FF7B25;
-}
 
-.hele{
-    width:98%;
-    margin:1%;
-}
 
 .body{
    
@@ -104,30 +97,6 @@
     text-align: center;
 }
 
-.totredeler{
-    width:790px;
-    margin:5px;
-    padding:5px;
-    color:#FFFFFF;
-    background color:#FF7B25; 
-}
-    
-}
-.entredel{
-    width:390px;
-    margin:5px;
-    padding:5px;
-    background-color:#FFFFFF;
-}
-
-.footer{
-
-    height:60px;
-    background-color:#6b5b95;
-    color:#FFFFFF;
-    text-align:center;
-    padding-top: 15px;
-}
 .bunntekst{
     height:60px;
     background-color:#6b5b95;
