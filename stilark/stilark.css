@@ -3,12 +3,12 @@
     margin:0;
     padding:0;
 }
-.ul li a{
+.ul.li.a{
     color:#FFFFFF;
     font-weight:bold;
     text-decoration:none;
 }
-.ul li a:hover{
+.ul.li.a:hover{
     color:#EEEEEE;
 }
 .topptekst{
