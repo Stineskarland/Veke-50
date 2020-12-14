@@ -9,6 +9,12 @@
 .topp{
     height:100px;/* høyden til topp er 100px*/
 }
+.bunntekst{
+    height:100px;
+    background-color:#D64161;/*rosa */
+    color:#FFFFFF;/*hvit */
+    text-align:center;/*Gjør at teksten midtstilles */
+}
 
 
 .innpakning{
@@ -62,11 +68,5 @@
    color:#FFFFFF;/* Skriftfarge hvit*/
     width:98%;/*Vidde av ingressen er 98% av innpakningen */
     margin:1%;/*Marginen er 1% av innpakningen */
-}
-.bunntekst{
-    height:100px;
-    background-color:#D64161;/*rosa */
-    color:#FFFFFF;/*hvit */
-    text-align:center;/*Gjør at teksten midtstilles */
 }
 
