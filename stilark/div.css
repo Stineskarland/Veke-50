@@ -29,6 +29,19 @@
     width:98%;
     margin:1%;
 }
+
+.innpakning2 {
+ /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
+    men "passer" til hverandre, stort sett*/
+    max-width: 1200px;
+    min-width: 1100px;
+    margin:auto;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color:#6b5b95;
+  
+}
 .halv1 {
     width:46%;
     margin:1%;
