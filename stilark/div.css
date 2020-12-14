@@ -13,7 +13,7 @@
     height:100px;
 }
 
-.innpakning{
+.innpakning {
  /*Setter maksimum og minimumsbredde her slik at høyden på elementene i innpakningen ikke endres for mye
     men "passer" til hverandre, stort sett*/
     max-width: 1200px;
@@ -25,29 +25,29 @@
     background-color:#6b5b95;
   
 }
-.hele{
+.hele {
     width:98%;
     margin:1%;
 }
-.halv{
+.halv {
     width:46%;
     margin:1%;
     padding-top:0px;
     color:#FFFFFF;
 }
 
-.body{
+.body {
    
     font-family:sans-serif;
     font-size:22px;
    
 }
 
-.midtstilt{
+.midtstilt {
     text-align: center;
 }
 
-.totredeler{
+.totredeler {
     width:64%;
     margin:1%;
     background-color:#FF7B25;
@@ -55,14 +55,14 @@
     
 }
 
-.entredel{
+.entredel {
     width:29%;
     margin:1%;
     padding:1%;
    
 }
 
-.footer{
+.footer {
 
     height:60px;
     background-color:#6b5b95;
@@ -70,36 +70,32 @@
     text-align:center;
     padding-top: 15px;
 }
-  .ytre{
+  .ytre {
     width:1600px;
     margin:auto;
 }
-.ingress{
+.ingress {
    color:#FFFFFF;
     width:98%;
     margin:1%;
 }
 
 
-.body{
+.body {
    
     font-family:arial,sans-serif;
     font-size:22px;
-   
 }
 
-.midtstilt{
-    text-align: center;
-}
 
-.bunntekst{
+.bunntekst {
     height:60px;
     background-color:#6b5b95;
     color:#FFFFFF;
     text-align:center;
     padding-top: 15px;
 }
-  .ytre{
+  .ytre {
     width:1600px;
     margin:auto;
 }
