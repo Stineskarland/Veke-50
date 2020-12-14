@@ -3,13 +3,13 @@
     margin:0;
     padding:0;
 }
-ul.a{
+.ul a{
     color:#FFFFFF;
     font-weight:bold;
     text-decoration:none;
 }
-ul.a:hover{
-    color:#EEEEEE;
+.ul a:hover{
+    color:#0e0e0e;
 }
 .topptekst{
     height:100%;
