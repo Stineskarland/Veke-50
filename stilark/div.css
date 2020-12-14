@@ -25,17 +25,15 @@
     background-color:#6b5b95;
   
 }
-
-.halv{
-      width:48%;
-    margin:1%;
-    padding-top:0px;
-    color:#FFFFFF;
-}
-
 .hele{
     width:98%;
     margin:1%;
+}
+.halv{
+    width:48%;
+    margin:1%;
+    padding-top:0px;
+    color:#FFFFFF;
 }
 
 .body{
