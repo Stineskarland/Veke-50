@@ -42,17 +42,13 @@
     background-color:#6b5b95;
   
 }
-.halv1 {
-    width:46%;
+.halv{
+    width:48%;
     margin:1%;
     padding-top:0px;
     color:#FFFFFF;
 }
-.halv2 {
-    flex:1;
-    padding-top:0px;
-    color:#FFFFFF;
-}
+
 .body {
    
     font-family:sans-serif;
