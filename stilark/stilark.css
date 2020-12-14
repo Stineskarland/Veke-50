@@ -1,23 +1,13 @@
 
 .topptekst{
     height:100%;
-    background-color:#D64161;
-    color:#FFFFFF;
-       text-align:center;
+    background-color:#D64161;/*rosa */
+    color:#FFFFFF;/*hvit */
+       text-align:center;/*Gjør at teksten midtstilles */
 }
-  .ul{list-style-type:none;/*fjernerkulepunkter*/
-   margin:0;/*fjernerallemellomrom*/
-  padding:0;/*fjernerallemellomrom*/}
-  .ula {
-  
-    color:#FFFFFF;/*mørkegråtekst*/
-      font-weight:bold;/*fettekst*/ }
- .ula:hover{
-    color:#FFFFFF;
-} /*hvit*/
 
 .topp{
-    height:100px;
+    height:100px;/* høyden til topp er 100px*/
 }
 
 
@@ -26,67 +16,60 @@
     men "passer" til hverandre, stort sett*/
     max-width: 1200px;
     min-width: 1100px;
-    margin:auto;
-    display:flex;
-    flex-flow:row wrap;
-    justify-content:space-around;
-    background-color:#6b5b95; 
+    margin:auto;/*gjør at avstanden mellom dei ulike elementa blir like stor*/
+    display:flex;/*gjør at vi kan bruke flexbox */
+    flex-flow:row wrap;/*gjør at elementene flexes på rader, og kan være flere på ei rad */
+    justify-content:space-around;/* gir plass mellom di ulike elementa*/
+    background-color:#6b5b95; /*lilla */
 }
 .hele{
-    display:flex;
-    flex-direction:row;
-    flex-wrap:wrap;
-    width:1100px;
-    margin:1%;
+    display:flex;/*gjør at vi kan bruke flexbo */
+    flex-flow:row wrap;/*gjør at elementene flexes på rader, og kan være flere på ei rad */
+    width:1100px; /*Gjør at vidden til hele er 1100px */
+    margin:1%;/*Avstanden mellom elementene blir 1%  */
 }
 .halv{
-    width:500px;
-    margin:1%;
-    padding-top:0px;
-    color:#FFFFFF;
+    width:500px;/*Vidden til en halv blir 500px */
+    margin:1%;/*Avstanden mellom elementene blir 1% */
+    padding-top:0px;/* Ingen padding mot toppen*/
+    color:#FFFFFF;/*hvit skrift */
 }
 .body{
    
-    font-family:sans-serif;
-    font-size:22px;
+    font-family:sans-serif;/*Skrifttype */
+    font-size:22px;/* Skriftstørrelse*/
 }
 .midtstilt{
-    text-align: center;
+    text-align: center;/*Midtstiller teksten */
 }
 
 .totredeler{
-    width:64%;
-    margin:1%;
-    background-color:#FF7B25;
+    width:64%;/*Setter vidden lik 64% av innpakningen */
+    margin:1%;/*Margin lik 1% av innpakningen */
+    background-color:#FF7B25;/*oransje*/
     color:#FFFFFF; 
 }
 .entredel{
-    width:29%;
-    margin:1%;
-    padding:1%; 
+    width:29%;/*Setter vidden lik 29% av innpakningen*/
+    margin:1%;/*Margin lik 1% av innpakningen */
+    padding:1%; /*Padding lik 1% av innpakningen */
 }
   .ytre{
-    width:1600px;
-    margin:auto;
+    width:1600px;/*Ytre vidde er 1600px*/
+    margin:auto;/*Automatisk avstand mellom dei ulike elementa */
 }
 .ingress{
-   color:#FFFFFF;
-    width:98%;
-    margin:1%;
+   color:#FFFFFF;/* Skriftfarge hvit*/
+    width:98%;/*Vidde av ingressen er 98% av innpakningen */
+    margin:1%;/*Marginen er 1% av innpakningen */
 }
-.body{
-    font-family:Arial,sans-serif;
-    font-size:22px;
+
 }
 .bunntekst{
-    height:100px;
-    background-color:#D64161;
-    color:#FFFFFF;
-    text-align:center;
-    padding-top: 15px;
-}
- .ytre{
-    width:1600px;
-    margin:auto;
+    height:100px;/*Høyden av bunnteksten er 100px */
+    background-color:#D64161;/* Rosa*/
+    color:#FFFFFF;/* Hvit skrift*/
+    text-align:center;/*Midtstiller teksten*/
+    padding-top: 15px;/* 15px padding mot toppen*/
 }
 
