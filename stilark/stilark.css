@@ -1,15 +1,4 @@
 
-.ul a{
-    list-style-type:none;
-    margin:0;
-    padding:0;
-    color:#FFFFFF;
-    font-weight:bold;
-    text-decoration:none;
-}
-.ul a:hover{
-    color:#0e0e0e;
-}
 .topptekst{
     height:100%;
     background-color:#D64161;
@@ -19,7 +8,8 @@
   ul{list-style-type:none;/*fjernerkulepunkter*/
    margin:0;/*fjernerallemellomrom*/
   padding:0;/*fjernerallemellomrom*/}
-  ula{7display:block;/*gjøromlenkertilblock*/
+  ula {
+    display:block;/*gjøromlenkertilblock*/
     width:120px;/*breddepåboks*/
     padding:10px;/*avstandmellombokskantoginnhold*/
     border-radius:5px;/*avrunderkant*/
@@ -29,7 +19,8 @@
     text-decoration:none;/*fjernerunderstrek*/
     background-color:#8cbe05;/*grønn*/} 
  ula:hover{
-     background-color:#6b5b95;} /*lysgrønn*/
+     background-color:#6b5b95;
+} /*lysgrønn*/
 
 .topp{
     height:100px;
