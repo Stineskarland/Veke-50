@@ -29,13 +29,18 @@
     width:98%;
     margin:1%;
 }
-.halv {
+.halv1 {
     width:46%;
     margin:1%;
     padding-top:0px;
     color:#FFFFFF;
 }
-
+.halv2 {
+    flex:1;
+    margin:1%;
+    padding-top:0px;
+    color:#FFFFFF;
+}
 .body {
    
     font-family:sans-serif;
