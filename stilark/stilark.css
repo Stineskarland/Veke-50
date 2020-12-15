@@ -5,7 +5,19 @@
     color:#FFFFFF;/*hvit */
        text-align:center;/*Gjør at teksten midtstilles */
 }
-
+.ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;
+}
+.ula{
+    color:#FFFFFF;
+    font-weight:bold;
+    text-decoration:none;
+}
+ula:hover{
+    color:#FFFFFF;
+}
 .topp{
     height:100px;/* høyden til topp er 100px*/
 }
